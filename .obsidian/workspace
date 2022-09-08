@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "8d4558090948a7e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "401c11faa796f0d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java/6. Conditionals, Control Flow, Nested.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be85c432c7890cdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "55b5ce87f24a8d7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86600bdce35326ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "befc2297a33bf202",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a79ede8986f53a77",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a022905cdaefff68",
+    "type": "split",
+    "children": [
+      {
+        "id": "71208c318714c95c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "606ad6308e0b5483",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/6. Conditionals, Control Flow, Nested.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4164d577def15d35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/6. Conditionals, Control Flow, Nested.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897450f78ea86aab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c98e86b1cd1ae974",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/6. Conditionals, Control Flow, Nested.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "401c11faa796f0d2",
+  "lastOpenFiles": [
+    "Java/5. Methods, Scope, Returns.md",
+    "Java/6. Conditionals, Control Flow, Nested.md",
+    "Java/2. Variables, Static.md",
+    "Java/1. Print, Class (basics), Compile.md",
+    "Java/3. Math, Manipulation, Comparisons.md",
+    "Java/4. Classes, Constructors, Parameters.md"
+  ]
+}
