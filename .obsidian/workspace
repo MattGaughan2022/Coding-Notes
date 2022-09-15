@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java/12. Access, Mutate, Scope, Encapsul..md",
+            "file": "Java/15. 2D arrays.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/12. Access, Mutate, Scope, Encapsul..md",
+                "file": "Java/15. 2D arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/12. Access, Mutate, Scope, Encapsul..md",
+                "file": "Java/15. 2D arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/12. Access, Mutate, Scope, Encapsul..md"
+                "file": "Java/15. 2D arrays.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "86600bdce35326ef",
   "lastOpenFiles": [
-    "Java/11. String Methods.md",
-    "Java/10. Loops, Iterating(arrays), Breaks.md",
+    "Java/14. Inheritance and Polymorphism.md",
+    "Java/13. Static Methods.md",
+    "Structured Query Language/3. Aggregate Functions.md",
+    "README.md",
     "Structured Query Language/2. Queries.md",
     "Structured Query Language/1. Manipulation.md",
-    "README.md",
-    "Java/9. Arraylists.md",
-    "Java/8. Arrays, Importing(Printing), Index, Length, User Input.md",
-    "Java/7. Conditional Operators, Combining.md",
-    "Java/6. Conditionals, Control Flow, Nested.md",
-    "Java/5. Methods, Scope, Returns.md"
+    "Java/12. Access, Mutate, Scope, Encapsul..md",
+    "Java/11. String Methods.md",
+    "Java/10. Loops, Iterating(arrays), Breaks.md",
+    "Java/9. Arraylists.md"
   ]
 }
